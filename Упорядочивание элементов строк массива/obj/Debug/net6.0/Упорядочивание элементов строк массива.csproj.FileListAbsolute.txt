@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\bin\Debug\net6.0\Упорядочивание элементов строк массива.exe
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\bin\Debug\net6.0\Упорядочивание элементов строк массива.deps.json
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\bin\Debug\net6.0\Упорядочивание элементов строк массива.runtimeconfig.json
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\bin\Debug\net6.0\Упорядочивание элементов строк массива.dll
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\bin\Debug\net6.0\Упорядочивание элементов строк массива.pdb
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.AssemblyInfo.cs
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.dll
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\refint\Упорядочивание элементов строк массива.dll
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.pdb
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\Упорядочивание элементов строк массива.genruntimeconfig.cache
+C:\Users\User\Documents\Учеба Разработчик\Практикум\С#\Project 14\Упорядочивание элементов строк массива\obj\Debug\net6.0\ref\Упорядочивание элементов строк массива.dll
